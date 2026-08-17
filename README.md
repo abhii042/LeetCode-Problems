@@ -15,6 +15,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhii042/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/abhii042/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhii042/LeetCode-Problems/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhii042/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhii042/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/abhii042/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/abhii042/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -29,4 +30,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhii042/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/abhii042/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhii042/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
